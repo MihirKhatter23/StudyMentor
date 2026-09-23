@@ -15,7 +15,7 @@ PROJECT_ENDPOINT = (
 )
 
 AGENT_NAME = "StudyMentor"
-AGENT_VERSION = "1"
+AGENT_VERSION = "2"
 
 
 # =========================================================
