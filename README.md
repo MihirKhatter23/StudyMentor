@@ -459,37 +459,45 @@ This creates an adaptive study cycle instead of a one-time question-answer syste
 
 ---
 
-# 🖥️ Application Screenshots
+## 🖥️ Application Screenshots
 
 ### 🏠 StudyMentor Dashboard
 
 The main dashboard allows students to upload their study material and access the learning modules.
 
-> Add screenshot: `docs/screenshots/dashboard.png`
+![StudyMentor Dashboard](docs/screenshots/home.png)
+
+---
 
 ### 💬 Study Chat
 
 Students can ask questions and receive exam-oriented explanations based on their uploaded notes.
 
-> Add screenshot: `docs/screenshots/study-chat.png`
+![Study Chat](docs/screenshots/chat.png)
+
+---
 
 ### 🧠 Knowledge Checker
 
 Students can generate and attempt MCQs from their study material.
 
-> Add screenshot: `docs/screenshots/knowledge-checker.png`
+![Knowledge Checker](docs/screenshots/quiz.png)
+
+---
 
 ### 📊 Quiz Results
 
 The system displays the quiz score and topics that require revision.
 
-> Add screenshot: `docs/screenshots/quiz-results.png`
+![Quiz Results](docs/screenshots/quiz-result.png)
+
+---
 
 ### 📅 Personalized Study Schedule
 
-The study planner converts quiz performance and available time into a focused revision plan.
+The study planner converts quiz performance and available study time into a focused revision plan.
 
-> Add screenshot: `docs/screenshots/study-schedule.png`
+![Personalized Study Schedule](docs/screenshots/study-schedule.png)
 
 ---
 
